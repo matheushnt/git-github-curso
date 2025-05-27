@@ -1,4 +1,0 @@
-Este é mais
-um novo teste
-para exemplificar 
-o uso do git pull
