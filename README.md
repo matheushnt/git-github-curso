@@ -1,6 +1,6 @@
 # Git do Básico ao Avançado
 
-Repositório dedicado ao meu aprendizado de Git, ferramenta essencial para qualquer desenvolvedor, utilizando GitHub para hospedagem do códigos.
+Repositório dedicado ao meu aprendizado de Git - ferramenta essencial para qualquer desenvolvedor - e usando GitHub para hospedagem do códigos.
 
 Durante esse aprendizado, eu aprendi e coloquei prática conceitos fundamentais como:
  - Controle de Versão
